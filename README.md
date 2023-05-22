@@ -10,4 +10,4 @@ Hello, everyone. In this project, I tried to make an application that takes a wo
 
 ![result](https://github.com/ytcaglar/Algoritma/assets/93604446/392a414c-a08a-4fbc-addb-eca5e504689d)
 
-## I wish everyone success. Thank you...# ATM-App
+## I wish everyone success. Thank you...
